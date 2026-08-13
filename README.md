@@ -15,7 +15,8 @@ The system supports:
 
 ## System Demonstration
 
-phy_system-1.png
+<img width="1650" height="1861" alt="phy_system-1" src="https://github.com/user-attachments/assets/015c74c9-002f-49b2-bc63-16e9ccbf87dd" />
+
 ---
 
 ## Tools & Components
@@ -57,7 +58,7 @@ The system follows a modular architecture consisting of four major subsystems:
 
 ## System Block Diagram
 
-![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/system_block_diagram-1.png)
+<img width="982" height="377" alt="system_block_diagram-1" src="https://github.com/user-attachments/assets/9f8f5440-cb80-47e8-8957-66600758841a" />
 
 ---
 
@@ -118,7 +119,9 @@ The trained model is exported as an ultra-lightweight C++ library and embedded d
 ## AI Model Performance
 
 
-![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/AI_Model_Performance.png)
+<img width="1042" height="1327" alt="AI_Model_Performance" src="https://github.com/user-attachments/assets/723a10cc-ab46-4a8d-a42d-4c334267dc1e" />
+
+
 ---
 
 ## Communication Protocols
@@ -195,7 +198,8 @@ The system includes a responsive Web Application for remote monitoring and contr
 
 ## Web Dashboard
 
-![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/web.png)
+<img width="2549" height="1479" alt="web" src="https://github.com/user-attachments/assets/4be06115-4c88-4e14-9f2f-8f43e9d46bcb" />
+
 ---
 
 ## Experimental Results
@@ -250,3 +254,10 @@ Several future improvements are proposed:
 2. WS2812B Intelligent Control LED Datasheet
 3. APDS-9960 Gesture Sensor Datasheet
 4. Edge Impulse Documentation
+
+## Authors
+
+Anh Quoc Vu · Hung Dong Truong · Hoang Nguyen Huy Le · Minh Duy Nguyen ·
+Duyen Vu Ky Nguyen · Loc Duy Lam
+
+Please open an [issue](../../issues) for questions, bug reports, or reproduction problems.
