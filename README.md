@@ -15,7 +15,7 @@ The system supports:
 
 ## System Demonstration
 
-![image](https://github.com/Hudo1501/Smart-Voice-Gesture-LED-System/blob/main/phy_system-1.png)
+phy_system-1.png
 ---
 
 ## Tools & Components
